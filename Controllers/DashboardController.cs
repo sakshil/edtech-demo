@@ -9,7 +9,7 @@ public class DashboardController(IDashboardServices dashboardService) : Controll
     public async Task<IActionResult> GetDashboard([FromQuery] string learnerId)
     {
         if (string.IsNullOrEmpty(learnerId))
-            return BadRequest("learnerId required");
+            learnerId = "Guest";
 
         var result = await dashboardService.GetDashboardAsync(learnerId);
 
