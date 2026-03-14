@@ -53,6 +53,13 @@
     "LearnerId": "john123",
     "Type": "Quiz",
     "Tag": "math"
+
+  },
+  {
+    "LearnerId": "john123",
+    "Type": "View",
+    "Tag": "math"
+
   }
 ]
 

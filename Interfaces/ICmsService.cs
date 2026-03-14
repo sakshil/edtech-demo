@@ -6,4 +6,8 @@ namespace EdTetch.Interfaces
     {
         Task<List<CmsContent>> GetCmsContent(string segment);
     }
+
+
+
+
 }
