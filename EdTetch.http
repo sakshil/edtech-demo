@@ -1,0 +1,7 @@
+@host = http://localhost:5277
+
+
+
+### Get Dashboard
+GET {{host}}/api/dashboard?learnerId=10
+Accept: application/json

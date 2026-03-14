@@ -1,0 +1,21 @@
+[
+  {
+    "LearnerID": "sakshi123",
+    "Grade": "10",
+    "Segment": "Paid",
+    "Interests": [
+      "Robotics",
+      "Coding",
+      "Math"
+    ]
+  },
+  {
+    "LearnerID": "john123",
+    "Grade": "1",
+    "Segment": "Free",
+    "Interests": [
+      "Robotics",
+      "Coding"
+    ]
+  }
+]

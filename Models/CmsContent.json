@@ -1,0 +1,22 @@
+[
+  {
+    "Segment": "FREE",
+    "BannerMessage": "Welcome to our learning platform! Start your journey today.",
+    "Blocks": "Top Free Courses"
+  },
+  {
+    "Segment": "FREE",
+    "BannerMessage": "Upgrade to unlock premium courses.",
+    "Blocks": "Recommended Free Practice"
+  },
+  {
+    "Segment": "PAID",
+    "BannerMessage": "Spring Learning Festival - Exclusive for Premium Members!",
+    "Blocks": "Advanced Courses"
+  },
+  {
+    "Segment": "PAID",
+    "BannerMessage": "Boost your skills with expert-led masterclasses.",
+    "Blocks": "Premium Practice Modules"
+  }
+]

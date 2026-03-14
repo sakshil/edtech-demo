@@ -1,0 +1,59 @@
+[
+  {
+    "LearnerId": "sakshi123",
+    "Type": "Search",
+    "Tag": "math"
+
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "Search",
+    "Tag": "Science"
+
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "Search",
+    "Tag": "coding"
+
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "View",
+    "Tag": "Science"
+
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "View",
+    "Tag": "Math"
+
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "View",
+    "Tag": "coding"
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "Quiz",
+    "Tag": "science"
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "Quiz",
+    "Tag": "math"
+  },
+  {
+    "LearnerId": "sakshi123",
+    "Type": "Quiz",
+    "Tag": "coding"
+  },
+  {
+    "LearnerId": "john123",
+    "Type": "Quiz",
+    "Tag": "math"
+  }
+]
+
+
